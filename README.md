@@ -1,2 +1,2 @@
 # OpenGL renderer
-A project aimed to better learn low-level OpenGL and 3d math with c++ 
+A project aimed to better understand low-level OpenGL and 3d math with c++ 
